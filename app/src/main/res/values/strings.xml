@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HepatitisApp</string>
+    <string name="happy">Berdasarkan hasil prediksi, <font color='#00FF00'>harapan hidup anda masih ada</font>. Dimohon untuk tetap melakukan pengobatan sampai anda dinyatakan sembuh.</string>
+    <string name="sad">Berdasarkan hasil prediksi, <font color='#ff0000'>harapan hidup anda kecil</font>. Mohon segera konsultasikan dengan dokter anda.</string>
+    <string name="petunjuk">Isilah form di bawah ini sesuai dengan <b>kondisi yang anda alami</b>.</string>
+    <string name="hepatitis"><b>Hepatitis</b> adalah istilah penyakit yang dipakai untuk semua jenis peradangan pada sel-sel hati, yang bisa disebabkan oleh infeksi (<i>virus, bakteri, parasite</i>), obat-obatan (termasuk obat tradisional), konsumsi alcohol, lemak yang berlebih, dan penyakit autoimmune. 5 jenis virus hepatitis antara lain :</string>
+    <string name="hepatitis_a">Hepatitis A, tidak menyebabkan infeksi kronis. Penularan melalui fecal-oral (rute penyebaran penyakit ketika pathogen dalam partikel tinja seseorang berpindah ke mulut orang lain), tidak ada pengobatan khusus hanya pengobatan pendukung dan menjaga Pola Hidup Bersih dan Sehat (PHBS).</string>
+    <string name="hepatitis_b"><![CDATA[Hepatitis B, adalah suatu penyakit hati yang disebabkan oleh “Virus Hepatitis B”, dapat menyebabkan infeksi kronis. Hepatitis B kronik ditandai dengan hasil HBsAg positif > 6 bulan. Diberikan pengobatan khusus dengan 7 macam obat, dengan tujuan memperpanjang harapan hidup, dan menurunkan kemungkinan terjadinya sirosis hati.]]></string>
+    <string name="hepatitis_c">Hepatitis C, penyebab utamanya adalah sirosi dan kanker hati. Penularannya melalui darah dan cairan tubuh, jarum suntik, transplantasi organ, 80% penderitanya dapat menjadi kronik. Pengobatan diberikan dengan kombinasi pegylated interferon dan ribavirin. Belum ada vaksin untuk hepatitis C.</string>
+    <string name="hepatitis_d">Hepatitis D, jarang ditemukan tapi paling berbahaya yang hanya ditemukan pada orang yang terkena hepatitis B.</string>
+    <string name="hepatitis_e">Hepatitis E, Penularan melalui fecal-oral dengan belum adanya pengobatan antivirus. Pencegahan dilakukan dengan PHBS terutama kebersihan makanan dan minuman (Pusdatin Kemenkes, 2014).</string>
+    <string name="gejala_hepatitis">Sebagian besar kasus hepatitis kronis berkembang secara bertahap bahkan tanpa gejala. Dapat juga berkembang setelah serangan hepatitis akut yang menetap atau sering kambuh. Berikut gejala-gejala hepatitis kronis yang perlu diwaspadai :</string>
+    <string name="penyakit_kuning">Penyakit kuning adalah perubahan warna kuning pada kulit dan bagian putih mata yang disebabkan oleh deposit bilirubin yang berlebihan. Kondisi ini sebenarnya jarang terjadi, kecuali jika sudah berkembang menjadi gagal hati.</string>
+    <string name="sirosis">Seringkali, gejala yang spesifik akan muncul pertama kalinya ketika hepatitis sudah berkembang menjadi sirosis. Gejalanya bisa berupa pembesaran limpa, spider angioma, kemerahan pada telapak tangan, asites, koagulopati, jaundice, dan penurunan fungsi otak (ensefalopati hepatik).</string>
+    <string name="penurunan_fungsi_otak">Fungsi otak dapat memburuk akibat kerusakan hati yang semakin parah. Pasalnya, hati sudah tidak dapat mengeluarkan zat beracun dari darah seperti biasanya. Zat-zat ini kemudian menumpuk di dalam darah dan mencapai otak.</string>
+    <string name="masalah_pembekuan_darah">Darah juga tidak dapat membeku seperti biasanya karena hati yang rusak tidak dapat lagi mensintesis cukup protein yang membantu pembekuan darah.</string>
+    <string name="tinja_terang">Kotoran berwarna terang disebabkan karena aliran empedu yang seharusnya keluar dari hati justru tersumbat sehingga lebih sedikit bilirubin yang dieliminasi dalam feses.</string>
+
+</resources>
